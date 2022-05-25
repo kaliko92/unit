@@ -41,7 +41,7 @@ write this command in visual code
 |**Put**   |localhos:8000/api/stock/id    | Update an existing stock |
 |**Delete**|localhos:8000/api/stock/id    | Delete an existing stock |
 
-
+# Functions
 |**Method**| **URL**                                                        | **Action**                                 |
 |:--------:|:--------------------------------------------------------------:|:------------------------------------------:|
 |**Get**   |localhos:8000/api/product/list                                  | Get all product in several units           |
